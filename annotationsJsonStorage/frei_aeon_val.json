@@ -1,0 +1,7394 @@
+[
+  {
+    "image": "BEANS0126.png",
+    "question": "What colour is the bean?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milky"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yellow"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0127.png",
+    "question": "Is this chocolate?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0128.png",
+    "question": "What kind of food is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chocolate"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0129.png",
+    "question": "Is this beans?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0130.png",
+    "question": "Is this beans?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0131.png",
+    "question": "What is this can?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kidney beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kidney beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kidney beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kidney beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0132.png",
+    "question": "What is the name?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura baked beans"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0133.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0134.png",
+    "question": "What colour is the bean?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "red"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "reddish orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "red"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yellow"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "BEANS0135.png",
+    "question": "What does the label say?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "baked beans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "beans"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0362.png",
+    "question": "What is written on the label?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pasta"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0363.png",
+    "question": "Which brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "maoam"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0364.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "CANDY0365.png",
+    "question": "How much is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.29 dollars"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0366.png",
+    "question": "What brand name is that?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "hitschler"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0367.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo candy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo candy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo candy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "candy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "haribo candy"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0368.png",
+    "question": "What is the label?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ricola cranberry"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0369.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0370.png",
+    "question": "What is on the label?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "raffaello"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CANDY0371.png",
+    "question": "What colour is the package?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0267.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wheat"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel wheat"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel wheat"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel wheat"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel wheat"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dinkel wheat"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0268.png",
+    "question": "What are these?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0269.png",
+    "question": "What is the weight?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0270.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "quinoa flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "quinoa flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "quinoa flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "quinoa flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "quinoa flakes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "quinoa flakes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0271.png",
+    "question": "Which brand is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0272.png",
+    "question": "What flavour is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "strawberry"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0273.png",
+    "question": "Is this rice?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0274.png",
+    "question": "What is the brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0275.png",
+    "question": "What weight is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "500g"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0276.png",
+    "question": "Which brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CEREAL0277.png",
+    "question": "What is the mass?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1000g"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0170.png",
+    "question": "What is the flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sweet paprika"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0171.png",
+    "question": "Is it sour cream flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0172.png",
+    "question": "Is this chili flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0173.png",
+    "question": "What is on the label?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "CHIPS0174.png",
+    "question": "What is the flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ketchup"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0175.png",
+    "question": "How much is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "2 dollars 29 cents"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0176.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bugles"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0177.png",
+    "question": "Is the bag green colour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0178.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "CHIPS0179.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chips"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHIPS0180.png",
+    "question": "What is the brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "lorenz"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0296.png",
+    "question": "How heavy?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0297.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cookies"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0298.png",
+    "question": "Is this chocolate?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0299.png",
+    "question": "What is the mass?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "100 grams"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0300.png",
+    "question": "How many percent of cocoa?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "70 percent"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0301.png",
+    "question": "What is the flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0302.png",
+    "question": "Which brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "alnatura"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0303.png",
+    "question": "Is the chocolate vegan?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0304.png",
+    "question": "What is the price?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.55 dollars"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar 55 cents"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 dollar and 55 cents"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0305.png",
+    "question": "What is the flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "white vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CHOCOLATE0306.png",
+    "question": "What is the flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "choco cookie"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0287.png",
+    "question": "What brand is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "COFFEE0288.png",
+    "question": "What brand is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "amaroy"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0289.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "COFFEE0290.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "latte macchiato"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0291.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee grounding"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0292.png",
+    "question": "What is this can?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cappuccino"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0293.png",
+    "question": "What is on the label?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nescafe gold"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0294.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee groundings"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0295.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee pack"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0296.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "coffee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "COFFEE0297.png",
+    "question": "Is this coffee?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "CORN0088.png",
+    "question": "What is the brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "bonduelle"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CORN0089.png",
+    "question": "What is this can of?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CORN0090.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CORN0091.png",
+    "question": "What is the price?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "CORN0092.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "a can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "can"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cans"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cans"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CORN0093.png",
+    "question": "What is the label?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "CORN0094.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "corn"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "CORN0095.png",
+    "question": "What does the label say?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "CORN0096.png",
+    "question": "What is in the can?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "JUICE0291.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juicebox"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0292.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "apple juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0293.png",
+    "question": "Is there blackcurrant?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0294.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "grape juice"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0295.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "orange juice"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0296.png",
+    "question": "What is the volume of juicebox?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0297.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple drink"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0298.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango drink"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "apple mango juice"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0299.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "multifruit juice"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0300.png",
+    "question": "What is the flavour?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "vanilla"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "JUICE0301.png",
+    "question": "What is the volume?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "75 millilitres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "0.75 litres"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "MILK0151.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0152.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0153.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "MILK0154.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0155.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0156.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0157.png",
+    "question": "What is the expiry date?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0158.png",
+    "question": "What is the volume of this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1L"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1 litre"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1L"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1L"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "MILK0159.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unanswerable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "MILK0160.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "milk"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "MILK0161.png",
+    "question": "What is the fat percentage?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5 percent"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "1.5 percent"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste154.jpg",
+    "question": "What is in this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "marmite paste"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste155.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted egg cereal mix"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste156.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "salted chilli paste"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste157.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "sambal chilli shrimp all purpose paste"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste158.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "satay sauce"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste159.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanut sauce"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "paste160.jpg",
+    "question": "What sauce is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed fruit sambal"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0157.png",
+    "question": "Are these nuts?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0158.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashews"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashew nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "cashew nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0159.png",
+    "question": "What is it?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0160.png",
+    "question": "Is this beans?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0161.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "dry roasted mix"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0162.png",
+    "question": "What is this bag of?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0163.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "unsuitable"
+      }
+    ],
+    "answer_type": "unanswerable",
+    "answerable": 0
+  },
+  {
+    "image": "NUTS0164.png",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "peanuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0165.png",
+    "question": "What is this bag of?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "walnuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0166.png",
+    "question": "What is in this bag?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "mixed nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "nuts"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "NUTS0167.png",
+    "question": "What is in this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "pistachios"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil76.jpg",
+    "question": "Which brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil76.jpg",
+    "question": "What is this bottle of?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil77.jpg",
+    "question": "What is inside this bottle?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil77.jpg",
+    "question": "Which brand is this one?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil78.jpg",
+    "question": "What is the brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil78.jpg",
+    "question": "Which oil is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "extra virgin olive oil"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil79.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil79.jpg",
+    "question": "What is the brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil80.jpg",
+    "question": "Which brand is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "ybarra"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "oil81.jpg",
+    "question": "What is this of?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "olive oil"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "canned138.jpg",
+    "question": "What is in this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "chicken rendang with potato"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "canned139.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "canned140.jpg",
+    "question": "What is in this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "curry chicken with potato"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "canned140.jpg",
+    "question": "Which brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yeo's"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "canned141.jpg",
+    "question": "Which is this can?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "kurma chicken with potatoes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "sauce160.jpg",
+    "question": "What brand name?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "sauce160.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "thick soy sauce"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "sauce161.jpg",
+    "question": "Which brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "aeon topvalu"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "sauce161.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "tomato sauce"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "sauce162.jpg",
+    "question": "What brand name?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "wan ja shan"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "sauce162.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "rice vinegar"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle337.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "traditional spaghetti sauce"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle337.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yakin"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle338.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "spicy sesame oil chicken flavour instant noodle"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle338.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle339.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "roasted duck flavour instant noodle"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle339.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle340.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "superior chicken flavour instant noodle"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle340.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "yorshin"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle341.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "plain noodles"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle341.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle342.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "fragrant shallot noodles"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle342.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle343.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "penang prawn noodles"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle343.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle344.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried misua"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle344.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle345.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried pan mee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle345.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle346.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "air dried ramen"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  },
+  {
+    "image": "noodle346.jpg",
+    "question": "What is this brand?",
+    "answers": [
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      },
+      {
+        "answer_confidence": "yes",
+        "answer": "youmee"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1
+  }
+]

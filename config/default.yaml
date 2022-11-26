@@ -1,0 +1,47 @@
+logs:
+    dir_logs: logs/vizwiz/
+annotations:
+    anno_dir: vqa_data/Annotations
+    top_ans: 3000
+    max_length: 26
+    min_count_word: 0
+    vocab_path: prep_data/vocabs.json
+images:
+    img_dir: vqa_data/Images
+    architecture: ResNet152
+    img_size: 448
+    output_size: 14
+    output_feat: 2048
+    batch_size: 4
+    data_workers: 2
+    feat_path: prep_data/resnet14x14.h5
+model:
+# Could be added new architectures and hyper-parameters like activations etc
+    pretrained_model: #./logs/vizwiz/2021-08-23_15:54:49/best_loss_log.pth 
+    seq2vec:
+        dropout: 0.25
+        emb_size: 300
+    pooling:
+        dim_v: 2048
+        dim_q: 1024
+        dim_h: 1024
+        dropout_v: 0.5
+        dropout_q: 0.5
+    classifier:
+        dropout: 0.5
+    attention:
+        glimpses: 2
+        mid_features: 512
+        dropout: 0.5
+training:
+    train_split: train
+    lr: 0.001
+    batch_size: 128
+    epochs: 50
+    data_workers: 2
+
+prediction:
+    model_path: ./logs/vizwiz/2022-11-26_15.09.54/final_log.pth
+    split: test
+    submission_file: ./predictions/predictions.json
+
