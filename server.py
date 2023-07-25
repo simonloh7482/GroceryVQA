@@ -35,7 +35,6 @@ class HTTPRequestHandler(BaseHTTPRequestHandler):
         do_POST(self)
 
 if __name__ == '__main__':
-    print("starting server")
-    httpd = HTTPServer(('192.168.1.60', 8080), HTTPRequestHandler)
-    httpd.serve_forever()
-
+    print("Server is starting...")
+    vqa_server = HTTPServer(('0.0.0.0', 8080), HTTPRequestHandler)
+    vqa_server.serve_forever()

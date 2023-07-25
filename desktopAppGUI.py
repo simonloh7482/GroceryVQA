@@ -170,7 +170,7 @@ class App(tk.Frame):
             img_base64 = base64.b64encode(buff.getvalue()).decode()
             
             inputs = {'image': img_base64, 'question': self.subQuestion.get()}
-            url = 'http://192.168.1.60:8080'
+            url = 'http://34.87.58.156:8080' 
             resp = requests.post(url, json=inputs)
             data = resp.json()
             answer = data['answer']

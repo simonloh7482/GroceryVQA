@@ -8,7 +8,7 @@ import sys, os
 cwd = os.getcwd()
 sys.path.append(cwd)
 
-from preprocessing.PreprocessQA import tokenize_questions, tokenize_answers
+from PreprocessQA import tokenize_questions, tokenize_answers
 
 
 def extract_vocab(iterable, idx_start, top_k=None):
@@ -42,7 +42,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--path_config', default='config/default.yaml', type=str,
                     help='path to a yaml config file')
-    args = parser.parse_args()
+    args = parser.parse_args([])
 
     if args.path_config is not None:
         with open(args.path_config, 'r') as handle:

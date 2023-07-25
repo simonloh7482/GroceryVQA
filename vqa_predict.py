@@ -60,7 +60,7 @@ def predict_preprocess(img_base64, question):
     
     # start extracting features
     # no calculating gradient
-    with torch.no_grad():
+    with torch.inference_mode():
         # passing image to network and features are extracted 
         att_feat = net(img)
     

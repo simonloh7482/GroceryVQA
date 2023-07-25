@@ -8,6 +8,7 @@ import torch.nn as nn
 import torchvision.models as models
 import yaml
 from tqdm import tqdm
+from torchvision.models import ResNet152_Weights
 
 import sys, os
 
@@ -22,7 +23,7 @@ class ImageFeatureExtractor(nn.Module):
     def __init__(self):
         super(ImageFeatureExtractor, self).__init__()
         # pretrained resnet152 is used
-        self.model = models.resnet152(pretrained=True)
+        self.model = models.resnet152(weights="DEFAULT")
 
         # Save attention features (tensor)
         def save_att_features(module, input, output):

@@ -144,7 +144,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_file', default='config/default.yaml', type=str,
                         help='path to a yaml config file')
-    args = parser.parse_args()
+    args = parser.parse_args([])
     if args.config_file is not None:
         with open(args.config_file, 'r') as handle:
             config = yaml.safe_load(handle)

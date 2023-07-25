@@ -17,7 +17,7 @@ images:
     feat_path: prep_data/resnet14x14.h5
 model:
 # Could be added new architectures and hyper-parameters like activations etc
-    pretrained_model: #./logs/vizwiz/2021-08-23_15:54:49/best_loss_log.pth 
+    pretrained_model: #./logs/vizwiz/2023-03-27_20.23.04/best_loss_log.pth
     seq2vec:
         dropout: 0.25
         emb_size: 300
@@ -35,13 +35,13 @@ model:
         dropout: 0.5
 training:
     train_split: train
-    lr: 0.001
-    batch_size: 128
-    epochs: 50
+    lr: 0.005
+    batch_size: 256
+    epochs: 48
     data_workers: 2
 
 prediction:
-    model_path: ./logs/vizwiz/2022-11-26_15.09.54/final_log.pth
+    model_path: ./logs/vizwiz/2023-04-24_14.01.37/best_accuracy_log.pth
     split: test
     submission_file: ./predictions/predictions.json
 
